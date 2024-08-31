@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.07c23122.css",
+    "main.js": "/static/js/main.c445de32.js",
+    "static/js/453.8aec5f08.chunk.js": "/static/js/453.8aec5f08.chunk.js",
+    "static/media/demo-vid.mp4": "/static/media/demo-vid.53732ab22b3799106929.mp4",
+    "static/media/landing-design.png": "/static/media/landing-design.c03243faa02f5727c182.png",
+    "static/media/bg-learn-more.png": "/static/media/bg-learn-more.2354d54f5892abc0cadd.png",
+    "static/media/ellipse-22.png": "/static/media/ellipse-22.f5162ec62ce0cd916cf1.png",
+    "static/media/phone-mockup.png": "/static/media/phone-mockup.e426bf28a53341a56705.png",
+    "static/media/circle-design-1.png": "/static/media/circle-design-1.fdaae2bf66ac0b3dafac.png",
+    "static/media/ellipse-24.png": "/static/media/ellipse-24.fdaae2bf66ac0b3dafac.png",
+    "static/media/ellipse-28.png": "/static/media/ellipse-28.fdaae2bf66ac0b3dafac.png",
+    "static/media/scrollwise.pdf": "/static/media/scrollwise.6038bf6773e5ce6d1112.pdf",
+    "static/media/ellipse-25.png": "/static/media/ellipse-25.7802634db962c4bc0e48.png",
+    "static/media/ellipse-27.png": "/static/media/ellipse-27.65c72c85d22766f15ff8.png",
+    "static/media/scrollwise-style-1.png": "/static/media/scrollwise-style-1.b68a0aa1386f30302ebc.png",
+    "static/media/circle-design-2.png": "/static/media/circle-design-2.408db2ab8cbaa435ec83.png",
+    "static/media/scrollwise-style-2.png": "/static/media/scrollwise-style-2.b86f14db943b0e45a1a8.png",
+    "index.html": "/index.html",
+    "main.07c23122.css.map": "/static/css/main.07c23122.css.map",
+    "main.c445de32.js.map": "/static/js/main.c445de32.js.map",
+    "453.8aec5f08.chunk.js.map": "/static/js/453.8aec5f08.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07c23122.css",
+    "static/js/main.c445de32.js"
+  ]
+}
